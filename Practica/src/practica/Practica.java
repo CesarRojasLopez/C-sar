@@ -13,10 +13,11 @@ public class Practica {
             System.out.println("El valor es: "+i+1);
         }
         
-        int i = 0;
+        System.out.println("     ");
         
-        
-       
+        for(int i = 0 ;i<1;i++){
+            System.out.println("sfa");
+        }
     }
     
 }
