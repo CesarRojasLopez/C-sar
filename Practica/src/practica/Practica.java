@@ -29,6 +29,9 @@ public class Practica {
         m=tec.nextInt();
         t=n+m;
         System.out.println("la suma es: "+t);
+        
+        
+        System.out.println("esto es otra prueba");//modifique esto desde la web
     
     
     }
