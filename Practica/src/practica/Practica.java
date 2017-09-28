@@ -32,6 +32,8 @@ public class Practica {
         
         
         System.out.println("esto es otra prueba");//modifique esto desde la web
+        
+        System.out.println("Prueba Daniel en Repositorio cesar");//7 y 24;
     
     
     }
