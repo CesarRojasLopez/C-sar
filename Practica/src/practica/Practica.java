@@ -35,7 +35,8 @@ public class Practica {
         
         System.out.println("Prueba Daniel en Repositorio cesar");//7 y 24;
     
-    
+        System.out.println("Prueba Diego Nuñez");
+        System.out.println("Otra prueba Diego");
     }
     
 }
